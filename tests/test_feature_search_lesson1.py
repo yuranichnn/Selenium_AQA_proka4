@@ -1,7 +1,7 @@
 import allure
 from base.base_test import BaseTest
 
-@allure.feature("Selenium_lesson1")
+@allure.feature("Selenium_lesson2")
 class TestSearchElement(BaseTest):
 
     def test_search_elements(self):
